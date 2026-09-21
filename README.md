@@ -1,7 +1,4 @@
-<h1 align="center">Hi , I'm Prashant Kumar</h1> <h3 align="center">Data Analyst | Turning raw data into clear decisions</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Data+Analyst+%7C+Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+data+into+insights;Always+learning%2C+always+building" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantmanveersingh&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/prashantmanveersingh?label=Followers&style=flat&color=2E9EF7" alt="followers" /> </p>
-
-
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%C2%B7%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=52&descSize=18" width="100%" /> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F2C811&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Data+Analysis+%7C+Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%7C+Data+Visualization;Turning+data+into+insights;Always+learning%2C+always+building" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantmanveersingh&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/github/followers/prashantmanveersingh?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" /> 
 ---
 
 ###  About Me
@@ -28,7 +25,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ---
@@ -50,40 +47,12 @@
 
 ---
 
-###  Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantmanveersingh&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashantmanveersingh/prashantmanveersingh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-###  Featured Projects
-
-<p align="center">
-  <a href="https://github.com/prashantmanveersingh/Madhav-Ecommerce-Sales-Dashboard-Using-Power-BI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantmanveersingh&repo=Madhav-Ecommerce-Sales-Dashboard-Using-Power-BI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/prashantmanveersingh/Vrinda-store-sales-Dashboard-2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantmanveersingh&repo=Vrinda-store-sales-Dashboard-2025&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prashantmanveersingh/SQL-Project-On-Online-Book-Store-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantmanveersingh&repo=SQL-Project-On-Online-Book-Store-&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/prashantmanveersingh/online-hospital-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantmanveersingh&repo=online-hospital-data-analysis&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
@@ -101,5 +70,5 @@
 
 ---
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <i>"Thanks for stopping by! If you liked what you saw, drop a ⭐ on one of my repos."</i> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%" />
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%" />
 <p align="center"><i>Thanks for stopping by! ⭐ this repo if you found something useful.</i></p>
